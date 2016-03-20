@@ -1,0 +1,25 @@
+{
+  "name": "meetingoom",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cfenv": "1.0.x",
+    "express": "4.X",
+    "jade": "^1.11.0",
+    "mysql": " 0.9.x",
+    "sockect": "1.4.5"
+  },
+  "repository": {},
+  "engines": {
+    "node": "4.2.x"
+  },
+  "description": "The Node.js Starter demonstrates a simple, reusable Node.js web application based on the Express framework.",
+  "main": "app.js",
+  "author": "karthic,jawahar",
+  "license": "ISC",
+  "devDependencies": {}
+}
